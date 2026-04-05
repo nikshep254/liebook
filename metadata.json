@@ -1,0 +1,5 @@
+{
+  "name": "Liebook",
+  "description": "A macOS dark themed bento card app for storing lies based on the who, what, where, why framework.",
+  "requestFramePermissions": []
+}
